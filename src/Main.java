@@ -5,7 +5,7 @@ public class Main {
         int edad,dec;
         String nombre, correo, telefono, nvNombre;
         Scanner sc= new Scanner(System.in);
-        System.out.println("Hola cliente");
+        System.out.println("Hola Amigo");
         System.out.println("Nombre del contacto");
         nombre= sc.nextLine();
         System.out.println("Correo");
